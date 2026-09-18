@@ -48,4 +48,18 @@
 
 - Analyze the contribution of each product category to total sales.
 
-- Dashboard Interaction <a href="
+- Dashboard Interaction <a href="https://github.com/Amrusha25/ZEPTO-SALES-DASHBOARD/blob/main/ZEPTO%20SALES%20DASHBOARD.png">Dashboard</a>
+
+## Project Insights
+
+- The dashboard provides an overall view of Zepto's sales and order performance.
+- Total sales, orders, customers, products, quantity, and average sales are presented using KPIs.
+- Monthly and daily sales analysis helps identify sales trends and variations.
+- Customer segments and customer types are analyzed to understand purchasing behavior.
+- UPI is the most frequently used payment method in the dataset.
+- Sales are analyzed across Bangalore, Delhi, and Mumbai to understand customer distribution.
+- Beverages is the highest-selling product category based on sales.
+- The top 10 orders are identified based on their sales value.
+- The dashboard provides an interactive and visual way to analyze Zepto's sales performance.
+
+
